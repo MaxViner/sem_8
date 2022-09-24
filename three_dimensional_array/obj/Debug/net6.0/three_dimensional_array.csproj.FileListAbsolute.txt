@@ -1,0 +1,15 @@
+C:\GeekBrains\С#\sem_8\three_dimensional_array\obj\Debug\net6.0\three_dimensional_array.csproj.AssemblyReference.cache
+C:\GeekBrains\С#\sem_8\three_dimensional_array\obj\Debug\net6.0\three_dimensional_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\С#\sem_8\three_dimensional_array\obj\Debug\net6.0\three_dimensional_array.AssemblyInfoInputs.cache
+C:\GeekBrains\С#\sem_8\three_dimensional_array\obj\Debug\net6.0\three_dimensional_array.AssemblyInfo.cs
+C:\GeekBrains\С#\sem_8\three_dimensional_array\obj\Debug\net6.0\three_dimensional_array.csproj.CoreCompileInputs.cache
+C:\GeekBrains\С#\sem_8\three_dimensional_array\bin\Debug\net6.0\three_dimensional_array.exe
+C:\GeekBrains\С#\sem_8\three_dimensional_array\bin\Debug\net6.0\three_dimensional_array.deps.json
+C:\GeekBrains\С#\sem_8\three_dimensional_array\bin\Debug\net6.0\three_dimensional_array.runtimeconfig.json
+C:\GeekBrains\С#\sem_8\three_dimensional_array\bin\Debug\net6.0\three_dimensional_array.dll
+C:\GeekBrains\С#\sem_8\three_dimensional_array\bin\Debug\net6.0\three_dimensional_array.pdb
+C:\GeekBrains\С#\sem_8\three_dimensional_array\obj\Debug\net6.0\three_dimensional_array.dll
+C:\GeekBrains\С#\sem_8\three_dimensional_array\obj\Debug\net6.0\refint\three_dimensional_array.dll
+C:\GeekBrains\С#\sem_8\three_dimensional_array\obj\Debug\net6.0\three_dimensional_array.pdb
+C:\GeekBrains\С#\sem_8\three_dimensional_array\obj\Debug\net6.0\three_dimensional_array.genruntimeconfig.cache
+C:\GeekBrains\С#\sem_8\three_dimensional_array\obj\Debug\net6.0\ref\three_dimensional_array.dll

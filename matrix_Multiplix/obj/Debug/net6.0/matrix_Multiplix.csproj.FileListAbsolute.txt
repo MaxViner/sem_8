@@ -1,0 +1,15 @@
+C:\GeekBrains\С#\sem_8\matrix_Multiplix\obj\Debug\net6.0\matrix_Multiplix.csproj.AssemblyReference.cache
+C:\GeekBrains\С#\sem_8\matrix_Multiplix\obj\Debug\net6.0\matrix_Multiplix.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\С#\sem_8\matrix_Multiplix\obj\Debug\net6.0\matrix_Multiplix.AssemblyInfoInputs.cache
+C:\GeekBrains\С#\sem_8\matrix_Multiplix\obj\Debug\net6.0\matrix_Multiplix.AssemblyInfo.cs
+C:\GeekBrains\С#\sem_8\matrix_Multiplix\obj\Debug\net6.0\matrix_Multiplix.csproj.CoreCompileInputs.cache
+C:\GeekBrains\С#\sem_8\matrix_Multiplix\bin\Debug\net6.0\matrix_Multiplix.exe
+C:\GeekBrains\С#\sem_8\matrix_Multiplix\bin\Debug\net6.0\matrix_Multiplix.deps.json
+C:\GeekBrains\С#\sem_8\matrix_Multiplix\bin\Debug\net6.0\matrix_Multiplix.runtimeconfig.json
+C:\GeekBrains\С#\sem_8\matrix_Multiplix\bin\Debug\net6.0\matrix_Multiplix.dll
+C:\GeekBrains\С#\sem_8\matrix_Multiplix\bin\Debug\net6.0\matrix_Multiplix.pdb
+C:\GeekBrains\С#\sem_8\matrix_Multiplix\obj\Debug\net6.0\matrix_Multiplix.dll
+C:\GeekBrains\С#\sem_8\matrix_Multiplix\obj\Debug\net6.0\refint\matrix_Multiplix.dll
+C:\GeekBrains\С#\sem_8\matrix_Multiplix\obj\Debug\net6.0\matrix_Multiplix.pdb
+C:\GeekBrains\С#\sem_8\matrix_Multiplix\obj\Debug\net6.0\matrix_Multiplix.genruntimeconfig.cache
+C:\GeekBrains\С#\sem_8\matrix_Multiplix\obj\Debug\net6.0\ref\matrix_Multiplix.dll

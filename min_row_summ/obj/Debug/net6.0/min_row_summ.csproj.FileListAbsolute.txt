@@ -1,0 +1,15 @@
+C:\GeekBrains\С#\sem_8\min_row_summ\bin\Debug\net6.0\min_row_summ.exe
+C:\GeekBrains\С#\sem_8\min_row_summ\bin\Debug\net6.0\min_row_summ.deps.json
+C:\GeekBrains\С#\sem_8\min_row_summ\bin\Debug\net6.0\min_row_summ.runtimeconfig.json
+C:\GeekBrains\С#\sem_8\min_row_summ\bin\Debug\net6.0\min_row_summ.dll
+C:\GeekBrains\С#\sem_8\min_row_summ\bin\Debug\net6.0\min_row_summ.pdb
+C:\GeekBrains\С#\sem_8\min_row_summ\obj\Debug\net6.0\min_row_summ.csproj.AssemblyReference.cache
+C:\GeekBrains\С#\sem_8\min_row_summ\obj\Debug\net6.0\min_row_summ.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\С#\sem_8\min_row_summ\obj\Debug\net6.0\min_row_summ.AssemblyInfoInputs.cache
+C:\GeekBrains\С#\sem_8\min_row_summ\obj\Debug\net6.0\min_row_summ.AssemblyInfo.cs
+C:\GeekBrains\С#\sem_8\min_row_summ\obj\Debug\net6.0\min_row_summ.csproj.CoreCompileInputs.cache
+C:\GeekBrains\С#\sem_8\min_row_summ\obj\Debug\net6.0\min_row_summ.dll
+C:\GeekBrains\С#\sem_8\min_row_summ\obj\Debug\net6.0\refint\min_row_summ.dll
+C:\GeekBrains\С#\sem_8\min_row_summ\obj\Debug\net6.0\min_row_summ.pdb
+C:\GeekBrains\С#\sem_8\min_row_summ\obj\Debug\net6.0\min_row_summ.genruntimeconfig.cache
+C:\GeekBrains\С#\sem_8\min_row_summ\obj\Debug\net6.0\ref\min_row_summ.dll

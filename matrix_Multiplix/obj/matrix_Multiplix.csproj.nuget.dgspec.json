@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\GeekBrains\\С#\\sem_8\\matrix_Multiplix\\matrix_Multiplix.csproj": {}
+  },
+  "projects": {
+    "C:\\GeekBrains\\С#\\sem_8\\matrix_Multiplix\\matrix_Multiplix.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\GeekBrains\\С#\\sem_8\\matrix_Multiplix\\matrix_Multiplix.csproj",
+        "projectName": "matrix_Multiplix",
+        "projectPath": "C:\\GeekBrains\\С#\\sem_8\\matrix_Multiplix\\matrix_Multiplix.csproj",
+        "packagesPath": "C:\\Users\\piro\\.nuget\\packages\\",
+        "outputPath": "C:\\GeekBrains\\С#\\sem_8\\matrix_Multiplix\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\piro\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
