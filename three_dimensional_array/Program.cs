@@ -15,12 +15,36 @@ int[,,] FillArray(int Up,int Wide,int deep)
             for (int i=0;i<Up;i++) 
                 {
                     for (int j=0;j<Wide;j++)
-                        for (int k=0;k<deep;k++)
                     {
-                        mas[i,j,k]= new Random().Next(-100,100);
+                        for (int k=0;k<deep;k++)
+                        {
+                            mas[i,j,k]= new Random().Next(-99,99);
+                            //проверка на неповторяемость элементов
+                            for (int q=0; q<Up; q++)
+                            {
+                                for (int t=0;t<Wide;t++)
+                                {
+                                    for(int r=0;r<deep;r++)
+                                    {
+                                        if 
+                                            (
+                                                (mas[i,j,k] == mas[q,t,r])
+                                                && i!=q
+                                                && j!=t
+                                                && r!=k                                     
+                                            )
+                                        {
+                                             k--;
+                                        }
+                                    
+                                    }
+                                }
+            
+                            }
                     }
-        
                 }
+                }
+                
             return mas;
             }
 void PrintArray(int[,,] mas)
@@ -48,14 +72,14 @@ void PrintArray(int[,,] mas)
             Console.WriteLine();
             }
 
-try
-{
+// try
+// {
 int [,,] rezult = new int[Up,Wide,deep];
 rezult = FillArray(Up,Wide,deep);
 PrintArray(rezult);
-}
-catch
-{
-    Console.WriteLine("oh... something wrong");
-}
+//}
+// catch
+// {
+//     Console.WriteLine("oh... something wrong");
+// }
 
